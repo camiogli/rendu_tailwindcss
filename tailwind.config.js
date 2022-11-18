@@ -14,13 +14,12 @@ module.exports = {
         'dark-grayish-blue': 'hsl(232, 10%, 55%)',
         'grayish-blue': 'hsl(210, 4%, 67%)',
       },
-      fontfamily: {
-        barlow: ['Barlow', 'sans-serif'],
-        fraunces: ['Fraunces', 'serif'], 
+      fontFamily: {
+        'barlow': ['Barlow', 'sans-serif'],
+        'fraunces': ['Fraunces', 'serif'], 
       },
       backgroundImage: {
-        'orang' : "url('../Images/image-gallery-orange.jpg')",
-        'egg' : "url('../Images/image-transform.jpg')",
+        'orang' : "url('../Images/image-header.jpg')",
         'pinkglass' : "url('Images/image-stand-out.jpg')",
         'cherry' : "url('Images/image-graphic-design.jpg')",
         'mandarine' : "url('Images/image-photography.jpg')",
