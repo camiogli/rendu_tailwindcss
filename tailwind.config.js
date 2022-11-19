@@ -20,9 +20,8 @@ module.exports = {
       },
       backgroundImage: {
         'orang' : "url('../Images/image-header.jpg')",
-        'pinkglass' : "url('Images/image-stand-out.jpg')",
-        'cherry' : "url('Images/image-graphic-design.jpg')",
-        'mandarine' : "url('Images/image-photography.jpg')",
+        'cherry' : "url('../Images/image-graphic-design.jpg')",
+        'mandarine' : "url('../Images/image-photography.jpg')",
       },
     },
   },
